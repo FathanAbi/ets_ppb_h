@@ -1,16 +1,11 @@
 # ets_ppb_h
 
-A new Flutter project.
+AWal buka errorr. tunggu dulu sebentar
 
-## Getting Started
+![Screenshot (195)](https://github.com/FathanAbi/ets_ppb_h/assets/90834092/fac032a6-8893-4895-b505-89fbb99d6623)
 
-This project is a starting point for a Flutter application.
+![Screenshot (196)](https://github.com/FathanAbi/ets_ppb_h/assets/90834092/95f3014a-ed42-4069-9cb8-6e82d0ccbdf6)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (197)](https://github.com/FathanAbi/ets_ppb_h/assets/90834092/e48d490d-81a4-4ca8-9112-8d93c590c874)
+599d101b9419)
