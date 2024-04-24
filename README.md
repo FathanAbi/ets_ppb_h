@@ -1,6 +1,13 @@
 # ets_ppb_h
 
-AWal buka errorr. tunggu dulu sebentar
+Fathan Abi Karami
+
+5025211156
+
+PPB H
+
+
+AWal buka errorr.  tunggu dulu sebentar. Hot restart tunggu lagi
 
 ![Screenshot (195)](https://github.com/FathanAbi/ets_ppb_h/assets/90834092/fac032a6-8893-4895-b505-89fbb99d6623)
 
